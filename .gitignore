@@ -1,4 +1,0 @@
-# Ignore compiled files
-*.exe
-# Ignore build directories
-/build/
